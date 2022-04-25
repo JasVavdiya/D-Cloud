@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/D-Cloud/static/css/main.a22aaf15.chunk.css",
+    "main.js": "/D-Cloud/static/js/main.b1a8d8f6.chunk.js",
+    "main.js.map": "/D-Cloud/static/js/main.b1a8d8f6.chunk.js.map",
+    "runtime-main.js": "/D-Cloud/static/js/runtime-main.214682c5.js",
+    "runtime-main.js.map": "/D-Cloud/static/js/runtime-main.214682c5.js.map",
+    "static/css/2.a6a636a0.chunk.css": "/D-Cloud/static/css/2.a6a636a0.chunk.css",
+    "static/js/2.21ce7114.chunk.js": "/D-Cloud/static/js/2.21ce7114.chunk.js",
+    "static/js/2.21ce7114.chunk.js.map": "/D-Cloud/static/js/2.21ce7114.chunk.js.map",
+    "index.html": "/D-Cloud/index.html",
+    "precache-manifest.be4a2b3e792c837d19a0e8f5efc26d65.js": "/D-Cloud/precache-manifest.be4a2b3e792c837d19a0e8f5efc26d65.js",
+    "service-worker.js": "/D-Cloud/service-worker.js",
+    "static/css/2.a6a636a0.chunk.css.map": "/D-Cloud/static/css/2.a6a636a0.chunk.css.map",
+    "static/css/main.a22aaf15.chunk.css.map": "/D-Cloud/static/css/main.a22aaf15.chunk.css.map",
+    "static/js/2.21ce7114.chunk.js.LICENSE.txt": "/D-Cloud/static/js/2.21ce7114.chunk.js.LICENSE.txt",
+    "static/media/box.gif": "/D-Cloud/static/media/box.211379fc.gif",
+    "static/media/noPreview.png": "/D-Cloud/static/media/noPreview.659728a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.214682c5.js",
+    "static/css/2.a6a636a0.chunk.css",
+    "static/js/2.21ce7114.chunk.js",
+    "static/css/main.a22aaf15.chunk.css",
+    "static/js/main.b1a8d8f6.chunk.js"
+  ]
+}
